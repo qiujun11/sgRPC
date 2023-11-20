@@ -26,6 +26,11 @@
         </dependency>
         <dependency>
             <groupId>com.jxust</groupId>
+            <artifactId>rpc-core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jxust</groupId>
             <artifactId>API</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>

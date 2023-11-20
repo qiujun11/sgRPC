@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 @Data
 @AllArgsConstructor
-public class HellowObject implements Serializable {
+public class HelloObject implements Serializable {
     private Integer id;
     private String message;
 }
