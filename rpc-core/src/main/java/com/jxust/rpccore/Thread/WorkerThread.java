@@ -9,7 +9,7 @@ import java.io.ObjectOutputStream;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.net.Socket;
-
+//废除
 public class WorkerThread implements Runnable{
     private Socket socket;
 
